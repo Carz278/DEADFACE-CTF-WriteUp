@@ -1133,5 +1133,5 @@ The successful exploitation underscores the importance of secure coding practice
 # Overall Competition Summary
 **Total Challenges Solved**: 31 flags across 9 categories  
 
-These CTF tasks are more suitable for beginners,especially AI that can solve lots of flags.  
+These CTF tasks are more suitable for beginners,especially AI that can give you ideas to solve lots of flags.  
 Anyways, Hope the write-ups are useful :)
